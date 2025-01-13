@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Дмитрий
 
-<!--
-**Dolikhin/Dolikhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — QA-инженер с опытом в ручном и автоматизированном тестировании.  
+Моя цель — обеспечить качество программного обеспечения и помогать командам достигать лучших результатов.  
 
-Here are some ideas to get you started:
+## 🛠️ Мои навыки
+- **Тестирование API:** Postman, REST API.
+- **Автоматизация тестирования:** Cypress.
+- **Нагрузочное тестирование:** JMeter.
+- **Инструменты CI/CD:** GitHub Actions.
+- **Работа с базами данных:** SQL, MySQL, mongoDB.
+- **Языки программирования:** JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Портфолио
+🔗 Репозитории, которые демонстрируют мой опыт:
+- [API тестирование с Postman](https://github.com/Dolikhin/)  
+- [UI тесты с Cypress](https://github.com/ВашUsername/Dolikhin)  
+- [Проект с использованием CI/CD](https://github.com/Cypress)  
+
+
+## 📞 Контакты
+- LinkedIn: [Ваш профиль](https://linkedin.com/in/ВашПрофиль)
+- Email: example@example.com
+- Telegram: [@/Dolikhin_d](https://t.me/Dolikhin_d)
+
