@@ -20,6 +20,6 @@
 
 ## 📞 Контакты
 - LinkedIn: [Ваш профиль](https://linkedin.com/in/ВашПрофиль)
-- Email: example@example.com
-- Telegram: [@/Dolikhin_d](https://t.me/Dolikhin_d)
+- Email: haxall53@gmail.com
+- Telegram: [@Dolikhin_d](https://t.me/Dolikhin_d)
 
