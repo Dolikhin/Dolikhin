@@ -16,7 +16,7 @@
 ## 📂 Портфолио
 🔗 Репозитории, которые демонстрируют мой опыт:
 - [API тестирование с Postman](https://github.com/Dolikhin/)  
-- [UI тесты с Cypress](https://github.com/ВашUsername/Dolikhin)  
+- [UI тесты с Cypress](https://github.com/Dolikhin/UI-Cypress)  
 - [Проект с использованием CI/CD](https://github.com/Cypress)  
 
 
