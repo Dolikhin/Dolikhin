@@ -8,20 +8,17 @@
 ## 🛠️ Мои навыки
 - **Тестирование API:** Postman, REST API.
 - **Автоматизация тестирования:** Cypress.
-- **Нагрузочное тестирование:** JMeter.
-- **Инструменты CI/CD:** GitHub Actions.
 - **Работа с базами данных:** SQL, MySQL, mongoDB.
 - **Языки программирования:** JavaScript.
 
 ## 📂 Портфолио
 🔗 Репозитории, которые демонстрируют мой опыт:
-- [API тестирование с Postman](https://github.com/Dolikhin/)  
+- [API тестирование с Postman](https://github.com/Dolikhin/Api-Postman)
 - [UI тесты с Cypress](https://github.com/Dolikhin/UI-Cypress) 
 - [Проект с использованием SQL](https://github.com/Dolikhin/SQL))  
 
 
 ## 📞 Контакты
-- LinkedIn: [Ваш профиль](https://linkedin.com/in/ВашПрофиль)
 - Email: haxall53@gmail.com
 - Telegram: [@Dolikhin_d](https://t.me/Dolikhin_d)
 
